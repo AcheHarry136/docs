@@ -32,4 +32,52 @@ by the developer or user by [adding slot types to entities](entity-register.mdx)
 | `head`     | Items worn on top of the head, such as crowns or hats               | [VanillaTweaks](https://www.curseforge.com/minecraft/mc-mods/vanillatweaks)                                                                                                                                                                                                                                                  |
 | `hands`    | Items worn on hands, such as gloves or gauntlets                    | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts), [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)                                                                                                                                                                                           |
 | `necklace` | Items worn around the neck, such as amulets or necklaces            | [Azure RPG Items](https://www.curseforge.com/minecraft/mc-mods/azure-rpg-items), [Potion Capsule](https://www.curseforge.com/minecraft/mc-mods/potion-capsule)                                                                                                                                                               |
-| `ring`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)                                                                                                                                                                             |
+| `ring`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)                                          
+| `charm`    | Miscellaneous items, either held or not associated with a body part | [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring), [Charm of Undying](https://www.curseforge.com/minecraft/mc-mods/curio-of-undying), [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
+| `charm`    | Miscellaneous items, either held or not associated with a body part | [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring), [Charm of Undying](https://www.curseforge.com/minecraft/mc-mods/curio-of-undying), [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
+| `charm`    | Miscellaneous items, either held or not associated with a body part | [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring), [Charm of Undying](https://www.curseforge.com/minecraft/mc-mods/curio-of-undying), [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
+| `ring`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `ring`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `ring`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `ring`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `ring`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `necklace` | Items worn around the neck, such as amulets or necklaces            | [Azure RPG Items](https://www.curseforge.com/minecraft/mc-mods/azure-rpg-items), [Potion Capsule](https://www.curseforge.com/minecraft/mc-mods/potion-capsule)  
+
+| `necklace` | Items worn around the neck, such as amulets or necklaces            | [Azure RPG Items](https://www.curseforge.com/minecraft/mc-mods/azure-rpg-items), [Potion Capsule](https://www.curseforge.com/minecraft/mc-mods/potion-capsule)  
+
+| `hands`    | Items worn on hands, such as gloves or gauntlets                    | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts), [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)
+
+| `hands`    | Items worn on hands, such as gloves or gauntlets                    | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts), [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)
+
+| `hands`    | Items worn on hands, such as gloves or gauntlets                    | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts), [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)
+
+| `head`     | Items worn on top of the head, such as crowns or hats               | [VanillaTweaks](https://www.curseforge.com/minecraft/mc-mods/vanillatweaks) 
+
+| `head`     | Items worn on top of the head, such as crowns or hats               | [VanillaTweaks](https://www.curseforge.com/minecraft/mc-mods/vanillatweaks) 
+
+| `body`     | Items worn around the torso, such as cloaks or shirts               | [Engineer's Tools](https://www.curseforge.com/minecraft/mc-mods/engineers-tools), [Reliquary](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
+
+| `body`     | Items worn around the torso, such as cloaks or shirts               | [Engineer's Tools](https://www.curseforge.com/minecraft/mc-mods/engineers-tools), [Reliquary](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
+
+| `back`     | Items worn on the back, such as capes or backpacks                  | [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked), [BountifulBaubles](https://www.curseforge.com/minecraft/mc-mods/bountifulbaubles)
+
+| `belt`     | Items worn around the waist, such as belts or pouches               | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts), [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic), [Nature's Aura]
+
+| `belt`     | Items worn around the waist, such as belts or pouches               | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts), [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic), [Nature's Aura]
+
+| `magic stone`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `magic stone`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `magic stone`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `magic stone`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `magic stone`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
+
+| `magic stone`     | Items worn on the "fingers", such as rings                          | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy), [Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)
